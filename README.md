@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayu615
-- 👀 I’m interested in web developmen
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css, javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
